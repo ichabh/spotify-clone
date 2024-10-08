@@ -15,10 +15,3 @@ User can login using its credentials via Spotify Authentication.
 
 You can watch the demo of the project on: https://spotify-clone-7060.netlify.app/
 
-
-You can watch this video to see how it works and looks (* in case it doesn't work for you!) 
-
-https://youtu.be/lWtwxq3feXQ
-
-
-Thank You!
